@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #222;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+}
+
+a {
+	color: inherit;
+}
+
+p {
+	margin-block: 1rem;
+}
+
+h1 {
+	font-weight: 500;
+}
+
+.secondary {
+	color: #bbb;
+}
